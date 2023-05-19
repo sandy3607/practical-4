@@ -9,6 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Guessing Game
+## 1. How many liters of Beer have been drunken at the Oktoberfest in Munich in 2019?
+1000000 Liters
 
-weeeeeeeeeeeeeeee
+## 2. How many ppl live in Karlsruhe?
+1 Mio
+
+## 3. What percentage of Americans asked in a survey in 2017, indicated that they believe in Astrology?
+30%
