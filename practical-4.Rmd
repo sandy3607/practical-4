@@ -11,10 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Guessing Game
 ## 1. How many liters of Beer have been drunken at the Oktoberfest in Munich in 2019?
-1000000 Liters
+78520200
 
 ## 2. How many ppl live in Karlsruhe?
-1 Mio
+313092
 
 ## 3. What percentage of Americans asked in a survey in 2017, indicated that they believe in Astrology?
-30%
+29%
